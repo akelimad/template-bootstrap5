@@ -1,0 +1,9 @@
+#intro {
+    background-image: url("../images/mac.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.progress {
+    height: 25px;
+}
